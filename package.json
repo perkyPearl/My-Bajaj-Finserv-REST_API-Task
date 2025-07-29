@@ -1,0 +1,17 @@
+{
+  "name": "bajaj-rest-api-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "pearl648",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
